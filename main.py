@@ -18,8 +18,8 @@ def main():
         video()
     if selected_box == 'Face Detection':
         face_detection()
-    """if selected_box == 'Feature Detection':
-        feature_detection()"""
+    #if selected_box == 'Feature Detection':
+        #feature_detection()
     if selected_box == 'Object Detection':
         object_detection() 
 
